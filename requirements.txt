@@ -1,0 +1,6 @@
+torch
+diffusers
+accelerate
+safetensors
+numpy
+matplotlib

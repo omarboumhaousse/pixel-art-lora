@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# model weights and run state never go in git
+*.safetensors
+*.ckpt
+wandb/
+checkpoints/
